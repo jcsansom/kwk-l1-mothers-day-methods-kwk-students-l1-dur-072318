@@ -5,3 +5,5 @@ def mothers_day(name="Mom")
   name = "Beyonce"
   puts "Happy Mother's Day, #{name}!"
 end
+
+print mothers_day
